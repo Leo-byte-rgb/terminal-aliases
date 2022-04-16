@@ -10,17 +10,17 @@ Calm down, I will teach you, so, follow these steps.
 
 First, pull this project with:
 
-<aside>
-💡 git pull [https://github.com/Leo-byte-rgb/terminal-aliases.git](https://github.com/Leo-byte-rgb/terminal-aliases.git)
-
-</aside>
+```
+git pull [https://github.com/Leo-byte-rgb/terminal-aliases.git](https://github.com/Leo-byte-rgb/terminal-aliases.git)
+```
 
 Open your terminal and find the .bashrc file ou .zshrc file (in my case). I opened it with VSCode, but you can do with vim as well.
 
-<aside>
-💡 cd ~ && code .
 
-</aside>
+
+```
+cd ~ && code .
+```
 
 Grab the Aliases that you pulled and put it in the same place where are located .zshrc/.bashrc files.
 
@@ -44,10 +44,9 @@ fi
 
 When you want to use the “Create React Component” alias, you just type: 
 
-<aside>
-💡 cc <folderTarget> <ComponentName> <fileExtension>
-
-</aside>
+```
+ cc <folderTarget> <ComponentName> <fileExtension>
+```
 
 ### Example:
 
@@ -55,4 +54,4 @@ When you want to use the “Create React Component” alias, you just type:
 cc components Input ts
 ```
 
-⚠️ Before write the command, make sure that the folder target exists in your work directory.
+⚠️ Before writing the command, make sure that the folder target exists in your work directory.
