@@ -11,7 +11,7 @@ Calm down, I will teach you, so, follow these steps.
 First, pull this project with:
 
 ```
-git pull [https://github.com/Leo-byte-rgb/terminal-aliases.git](https://github.com/Leo-byte-rgb/terminal-aliases.git)
+git pull https://github.com/Leo-byte-rgb/terminal-aliases.git
 ```
 
 Open your terminal and find the .bashrc file ou .zshrc file (in my case). I opened it with VSCode, but you can do with vim as well.
